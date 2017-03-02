@@ -1,9 +1,9 @@
-#include <iostream>
+#include <iostream>  //This includes InputOutput Library
 
-using namespace std ;
+using namespace std ; 
 
-int main()
-{
+int main()  //This is the main function
+{  //Start of main body
 
     string hey ; //string variable
     cout<<  " \nWhat is your name? Please enter your name:\n "  ; //display and print
@@ -12,5 +12,5 @@ int main()
 
 
 
-    return 0 ;
-}
+    return 0 ;  //End of program
+} //End of main body
