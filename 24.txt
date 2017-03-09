@@ -1,0 +1,7 @@
+ int = decimal number 
+  
+  float  = 2.5 — Floating point numbers. ... The floating part of the name floating point refers to the fact that the decimal point can “float”; that is, it can support a variable number of digits before and after the decimal point...
+  
+  double = The set of values of the type float is a subset of the set of values of the type double ; the set of values of the type double is a subset of the set of values of the type long double . 
+
+  bool =bool is a language integral type whose supported values are just true and false . When converted to int true becomes 1 and false becomes 0.
